@@ -1,0 +1,348 @@
+<div class="col-md-6 ar disblock" id="place-hide-1-2" style="">
+                    <div class="showInfo">
+                        <i class="fa fa-info-circle"></i>
+                        <div class="showarea" name="show[1][2]" id="show-1-2" style="display: block;">    <div class="">
+        
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="1768">1-Ahmad Shah’s Mosque                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="1768">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="1769">2-Ahmedabad World Heritage City                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="1769">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="37">3-Auto World Vintage Car Museum                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="37">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="12">4-Badshah no Hajiro (Kings Tomb)                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="12">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="1683">5-Bhadra Fort                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="1683">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="1686">6-Dada Harir Vav (Stepwell)                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="1686">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="1652">7-Gandhi Smruti                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="1652">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="1561">8-Glade One Golf Club                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="1561">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="1553">9-Gujarat Vidyapeeth                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="1553">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="1538">10-Gulmohar Greens Golf &amp; Country Club Limited                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="1538">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="1689">11-Hazur Palace                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="1689">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="10">12-Heritage Walk                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="10">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="1692">13-Hutheesing Jain Temple                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="1692">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="245">14-Jama Masjid                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="245">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="27">15-Jhulta Minara                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="27">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="371">16-Kalhaar Blues &amp; Greens Golf Club                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="371">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="1700">17-Kamlanehru Zoo, Kankaria                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="1700">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="30">18-Kankaria Lake                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="30">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="23">19-Kanoria Centre for Arts                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="23">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="364">20-Kensville Golf and Country Club                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="364">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="1705">21-Khoj Museum                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="1705">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="1708">22-Kite Musuem                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="1708">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="31">23-Kocharab Ashram                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="31">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="1715">24-LD Museum of Indology                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="1715">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="1717">25-Lokayatan Folk Museum                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="1717">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="1719">26-Lothal Archaeological Site                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="1719">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="1722">27-Magen Abraham Synagogue                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="1722">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="13">28-Manek Chowk                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="13">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="224">29-Nalsarovar Bird Sanctuary                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="224">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="1736">30-Philatelic Museum of Indian Stamps                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="1736">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="2">31-Sabarmati Ashram                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="2">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="566">32-Sabarmati Riverfront                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="566">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="18">33-Sanskar Kendra                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="18">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="26">34-Sardar Patel Museum                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="26">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="105">35-Sardar Vallabhbhai Patel National Museum                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="105">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="29">36-Sarkhej Roza                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="29">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="33">37-Science City                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="33">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="21">38-Shreyas Folk Museum                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="21">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="4">39-Sidi Sayeed Masjid                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="4">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="28">40-Sundarvan                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="28">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="7">41-Swaminarayan Temple                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="7">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="367">42-The Belvedere Golf &amp; Country Club                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="367">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="1536">43-The Belvedre Golf and Country Club                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="1536">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="158">44-Tribal Museum                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="158">VIEW</a>
+                </li>
+            </ul>
+            
+            <ul class="cf">
+                <li class="radio">
+                    <label><input type="radio" name="details[1][2]" id="details[1][2]" value="16">45-Veechar Cultural and heritage Museum for Utensils                    </label>
+                    <a href="#" data-toggle="modal" data-target="#placeModal" class="openModal" data-id="16">VIEW</a>
+                </li>
+            </ul>
+                </div>
+
+
+<script>
+    $('.openModal').click(function () {
+        var id = $(this).attr('data-id');
+
+        $.ajax({
+            type: "POST",
+            url: 'https://www.gujarattourism.com/tripplanner/0.1/load_subplace',
+            data: 'key=cb784502bffab6e&id=' + id ,
+
+            success: function (data) {
+                console.log(data);
+                if (data.code == 200) {
+                    $("#placeDetails").html(data.html);
+                } else {
+                    $('#days-error label.error').html(data.msg);
+                    $('label.error').show();
+                }
+            }
+        });
+    });
+</script>
+
+</div>
+                    </div>
+
+                </div>
